@@ -1,0 +1,140 @@
+Compound Name,Molecular Formula,SMILES,P（蛋白质）,对接分数,PDB id,选取链条,Select parameters
+Auraptene,C19H22O3,CC(=CCC/C(=C/COC1=CC2=C(C=C1)C=CC(=O)O2)/C)C,CXCL8,-6.7936,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isorhamnetin,C16H12O7,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,CXCL8,-6.7563,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isorhamnetin,C16H12O7,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,,,,,
+18 beta-glycyrrhetintic Acid,C30H46O4,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O,CXCL8,-7.3308,6LFM ,R-C-X-C chemokine receptor type 2,5
+Lablaboside C,C60H96O28,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3C(C(C(OC3OC4CCC5(C(C4(C)CO)CCC6(C5CC=C7C6(CCC8(C7CC(CC8)(C)C)C(=O)OC9C(C(C(C(O9)CO)O)O)OC1C(C(C(C(O1)C)O)O)O)C)C)C)C(=O)O)O)O)CO)O)O)O)O)O,CXCL8,-8.3669,6LFM ,R-C-X-C chemokine receptor type 2,5
+Vitexin,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,CXCL8,-7.1137,6LFM ,R-C-X-C chemokine receptor type 2,5
+Vitexin,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,,,,,
+Vitexin,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,,,,,
+"3,5,6-Trihydroxy-4',7-dimethoxyflavone",C17H14O7,,,,,,
+Oroxin A,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,CXCL8,-7.091,6LFM ,R-C-X-C chemokine receptor type 2,5
+Oroxin A,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,,,,,
+Oroxin A,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,,,,,
+p-coumaric acid,C9H8O3,C1=CC(=CC=C1/C=C/C(=O)O)O,CXCL8,-5.989,6LFM ,R-C-X-C chemokine receptor type 2,5
+Calycosin,C16H12O5,COC1=C(C=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O)O,CXCL8,-6.5978,6LFM ,R-C-X-C chemokine receptor type 2,5
+Neferine,C38H44N2O6,CN1CCC2=CC(=C(C=C2[C@H]1CC3=CC=C(C=C3)OC)OC4=C(C=CC(=C4)C[C@@H]5C6=CC(=C(C=C6CCN5C)OC)OC)O)OC,CXCL8,-6.9087,6LFM ,R-C-X-C chemokine receptor type 2,5
+Glycyrrhizic acid,C42H62O16,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O,CXCL8,-6.2997,6LFM ,R-C-X-C chemokine receptor type 2,5
+Leucine,C6H13NO2,CC(C)C[C@@H](C(=O)O)N,CXCL8,-5.744,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isoliquiritin,C21H22O9,C1=CC(=CC=C1/C=C/C(=O)C2=C(C=C(C=C2)O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,CXCL8,-7.1242,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isovitexin,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,CXCL8,-7.1659,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isovitexin,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,,,,,
+Isovitexin,C21H20O10,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,,,,,
+Liquiritigenin,C15H12O4,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,CXCL8,-6.4453,6LFM ,R-C-X-C chemokine receptor type 2,5
+Liquiritigenin,C15H12O4,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,,,,,
+Astragalus F,C12H18N2O5,,,,,,
+Isoliquiritigenin,C15H12O4,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,CXCL8,-6.3785,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isoliquiritigenin,C15H12O4,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,,,,,
+Palmitate -3 beta-sitosterol ester,C50H88O7,,,,,,
+o-Cymene,C10H14,CC1=CC=CC=C1C(C)C,CXCL8,-5.5627,6LFM ,R-C-X-C chemokine receptor type 2,5
+o-Cymene,C10H14,CC1=CC=CC=C1C(C)C,,,,,
+Astragaloside Ⅰ,C45H72O16,,,,,,
+Astragaloside Ⅰ,C45H72O16,,,,,,
+Kingianoside D,C45H72O19,C[C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2CC[C@@]3(C4CC(=O)[C@]5(C(C4CC=C3C2)CC6C5[C@@H](C(O6)(CC[C@@H](C)CO[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)O)C)C)C)O)O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O,CXCL8,-8.132,6LFM ,R-C-X-C chemokine receptor type 2,5
+Obacunone,C26H30O7,C[C@@]12CC[C@@H]3[C@]4(C=CC(=O)OC([C@@H]4CC(=O)[C@]3([C@@]15[C@H](O5)C(=O)O[C@H]2C6=COC=C6)C)(C)C)C,CXCL8,-7.4619,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isoastragaloside I,C45H72O16,,,,,,
+Isoastragaloside I,C45H72O16,,,,,,
+Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C(OC3=CC(=CC(=C3C2=O)O)O)C4=CC(=C(C=C4)O)O)O)O)O,CXCL8,-7.2028,6LFM ,R-C-X-C chemokine receptor type 2,5
+Lablab saponin I,C54H82O22,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3C(C(C(OC3OC4CCC5(C(C4(C)CO)CCC6(C5CC=C7C6(CCC8(C7CC(CC8OC9CC(=O)C(=C(O9)C)O)(C)C)C=O)C)C)C)C(=O)O)O)O)CO)O)O)O)O)O,CXCL8,-7.1024,6LFM ,R-C-X-C chemokine receptor type 2,5
+3-acetyloledronic acid,C32H50O4,,,,,,
+Coumarin,C9H6O2,C1=CC=C2C(=C1)C=CC(=O)O2,CXCL8,-5.6346,6LFM ,R-C-X-C chemokine receptor type 2,5
+"3,5,6-Trihydroxy-3',4',7-trimethoxyflavone",C18H16O8,COC1=C(C=C(C=C1)C2=C(C(=O)C3=C(C(=C(C=C3O2)OC)O)O)O)OC,CXCL8,-6.8889,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isobergapten,C12H8O4,COC1=C2C=CC(=O)OC2=C3C=COC3=C1,CXCL8,-6.1454,6LFM ,R-C-X-C chemokine receptor type 2,5
+p-Cymene,C10H14,CC1=CC=CC=C1C(C)C,CXCL8,-5.5657,6LFM ,R-C-X-C chemokine receptor type 2,5
+p-Cymene,C10H14,CC1=CC=CC=C1C(C)C,,,,,
+Calycosin-7-O-beta-D-glucoside,C22H22O10,COC1=C(C=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,CXCL8,-7.6181,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isomucronulatol 7-O-glucoside,C23H28O10,"COC1=C(C(=C(C=C1)C2CC3=C(C=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OC2)O)OC
+COC1=C(C(=C(C=C1)[C@H]2CC3=C(C=C(C=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)OC2)O)OC
+COC1=C(C(=C(C=C1)C2CC3=C(C=C(C=C3)OC4C(C(C(C(O4)CO)O)O)O)OC2)O)OC",CXCL8,,6LFM ,R-C-X-C chemokine receptor type 2,5
+Poricoic acid C,C31H46O4,CC(C)C(=C)CC[C@H]([C@H]1CC[C@@]2([C@@]1(CC=C3C2=CC[C@H]([C@]3(C)CCC(=O)O)C(=C)C)C)C)C(=O)O,CXCL8,-6.9347,6LFM ,R-C-X-C chemokine receptor type 2,5
+Aviprin,C16H16O6,CC(C)([C@@H](COC1=C2C=CC(=O)OC2=CC3=C1C=CO3)O)O,CXCL8,-6.6882,6LFM ,R-C-X-C chemokine receptor type 2,5
+Glabrolide,C30H44O4,C[C@]12CC[C@@H](C([C@@H]1CC[C@@]3([C@@H]2C(=O)C=C4[C@]3(CC[C@@]5([C@H]4C[C@@]6(C[C@H]5OC6=O)C)C)C)C)(C)C)O,CXCL8,-7.2271,6LFM ,R-C-X-C chemokine receptor type 2,5
+Retrochalcone,C16H14O4,COC1=C(C=CC(=C1)O)/C=C/C(=O)C2=CC=C(C=C2)O,CXCL8,-6.9048,6LFM ,R-C-X-C chemokine receptor type 2,5
+6-Methoxy-7-hydroxycoumarin,C10H8O4,COC1=C(C=C2C(=C1)C=CC(=O)O2)O,CXCL8,-5.9893,6LFM ,R-C-X-C chemokine receptor type 2,5
+"(6aR,11aR)10-hydroxy-3,9-dimethoxypterocarpan",C17H16O5,,,,,,
+Lablaboside B,C54H86O24,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@H]([C@H](O[C@H]2O[C@@H]3[C@H]([C@@H]([C@H](O[C@H]3O[C@H]4CC[C@]5([C@H]([C@@]4(C)CO)CC[C@@]6([C@@H]5CC=C7[C@]6(CC[C@@]8([C@H]7CC(CC8)(C)C)C(=O)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)CO)O)O)O)C)C)C)C(=O)O)O)O)CO)O)O)O)O)O,CXCL8,-7.5725,6LFM ,R-C-X-C chemokine receptor type 2,5
+Astragaloside IV,C41H68O14,C[C@]12CC[C@@]34C[C@@]35CC[C@@H](C([C@@H]5[C@H](C[C@H]4[C@@]1(C[C@@H]([C@@H]2[C@]6(CC[C@H](O6)C(C)(C)O)C)O)C)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C)O[C@H]8[C@@H]([C@H]([C@@H](CO8)O)O)O,CXCL8,-6.5634,6LFM ,R-C-X-C chemokine receptor type 2,5
+4'-O-Glucosylvitexin,C27H30O15,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O,CXCL8,-7.7942,6LFM ,R-C-X-C chemokine receptor type 2,5
+Lablaboside D,C60H94O28,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3C(C(C(OC3OC4CCC5(C(C4(C)CO)CCC6(C5CC=C7C6(CCC8(C7CC(CC8)(C)C)C(=O)OC9C(C(C(C(O9)COC(=O)CC(C)(CC(=O)O)O)O)O)O)C)C)C)C(=O)O)O)O)CO)O)O)O)O)O,CXCL8,-7.108,6LFM ,R-C-X-C chemokine receptor type 2,5
+Trametenolic acid,C30H48O3,CC(=CCC[C@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)C(=O)O)C,CXCL8,-6.8168,6LFM ,R-C-X-C chemokine receptor type 2,5
+Trametenolic acid,C30H48O3,CC(=CCC[C@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)C(=O)O)C,,,,,
+Mongholicoside Ⅰ,C36H60O9,,,,,,
+Astragaloside Ⅷ,C47H76O17,,,,,,
+Astragaloside Ⅷ,C47H76O17,,,,,,
+Isopimpinellin,C13H10O5,COC1=C2C=COC2=C(C3=C1C=CC(=O)O3)OC,CXCL8,-6.1808,6LFM ,R-C-X-C chemokine receptor type 2,5
+Daucosterol,C35H60O6,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)C(C)C,CXCL8,-7.2022,6LFM ,R-C-X-C chemokine receptor type 2,5
+Lablaboside F,C66H106O31,"C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2[C@@H](O[C@H]([C@@H]([C@@H]2O)O)O[C@@H]3[C@H]([C@@H]([C@H](O[C@H]3OC(=O)[C@@]45CC[C@@]6(C(=CC[C@H]7[C@]6(CC[C@@H]8[C@@]7(CC[C@@H](C8(C)C)O[C@H]9[C@@H]([C@H]([C@@H]([C@H](O9)C(=O)O)O)O)O[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO)O)O)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O)O)O)C)C)[C@@H]4CC(CC5)(C)C)C)CO)O)O)C)O)O)O
+CC1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(C(C(OC3OC(=O)C45CCC(CC4C6=CCC7C8(CCC(C(C8CCC7(C6(CC5)C)C)(C)C)OC9C(C(C(C(O9)C(=O)O)O)O)OC1C(C(C(C(O1)CO)O)O)OC1C(C(C(C(O1)C)O)O)O)C)(C)C)CO)O)O)C)O)O)O",CXCL8,,6LFM ,R-C-X-C chemokine receptor type 2,5
+"3,4-Dihydroxycinnamic acid",C9H8O4,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,CXCL8,-6.1528,6LFM ,R-C-X-C chemokine receptor type 2,5
+Kaempferol-4 '-methylether-3-glucoside,C22H22O11,,,,,,
+Portulaca moniterpene A,C16H26O7,,,,,,
+Methylnissolin-3-O-glucoside,C23H26O10,COC1=C(C2=C(C=C1)[C@@H]3COC4=C([C@@H]3O2)C=CC(=C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)OC,CXCL8,-7.3637,6LFM ,R-C-X-C chemokine receptor type 2,5
+Behenic acid,C22H44O2,CCCCCCCCCCCCCCCCCCCCCC(=O)O,CXCL8,-2.1376,6LFM ,R-C-X-C chemokine receptor type 2,5
+Scoparone,C11H10O4,COC1=C(C=C2C(=C1)C=CC(=O)O2)OC,CXCL8,-6.2266,6LFM ,R-C-X-C chemokine receptor type 2,5
+Oxylatine - 7-O-beta-D-glucoside,C22H24O9,,,,,,
+Quercetin 3-methyl ether,C16H12O7,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,CXCL8,-6.74,6LFM ,R-C-X-C chemokine receptor type 2,5
+Quercetin 3-methyl ether,C16H12O7,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,,,,,
+Licuraside,C26H30O13,C1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C(C=C3)C(=O)/C=C/C4=CC=C(C=C4)O)O)CO)O)O)O)(CO)O,CXCL8,-7.7046,6LFM ,R-C-X-C chemokine receptor type 2,5
+Ononin,C22H22O9,COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,CXCL8,-7.6229,6LFM ,R-C-X-C chemokine receptor type 2,5
+Lonchocarpenin,C27H28O6,CC(=CCC1=C2C(=C(C3=C1OC(C=C3)(C)C)OC)C(=C(C(=O)O2)C4=CC=C(C=C4)OC)O)C,CXCL8,-7.2678,6LFM ,R-C-X-C chemokine receptor type 2,5
+Kingianoside C,C45H72O20,C[C@H]1C2C(CC3[C@@]2(C(=O)CC4C3CC=C5[C@@]4(CC[C@@H](C5)O[C@H]6[C@@H]([C@H]([C@H]([C@H](O6)CO)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)O)O)C)C)OC1(CC[C@@H](C)CO[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O,CXCL8,-6.2336,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isorhamnetin 3-glucoside,C22H22O12,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,CXCL8,-7.5106,6LFM ,R-C-X-C chemokine receptor type 2,5
+"7,2',3'-trihydroxy-4'-methoxyisoflavan",C16H16O5,,,,,,
+Formononetin,C16H12O4,COC1=CC=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O,CXCL8,10.2827,6LFM ,R-C-X-C chemokine receptor type 2,5
+Licochalcone B,C16H14O5,COC1=C(C=CC(=C1O)O)/C=C/C(=O)C2=CC=C(C=C2)O,CXCL8,-6.9952,6LFM ,R-C-X-C chemokine receptor type 2,5
+N-Methyltyramine,C9H13NO,CNCCC1=CC=C(C=C1)O,CXCL8,-5.847,6LFM ,R-C-X-C chemokine receptor type 2,5
+Astragalus membranaceus stem saponin D,C38H62O11,,,,,,
+protocatechuic acid,C7H6O4,C1=CC(=C(C=C1C(=O)O)O)O,CXCL8,-5.9505,6LFM ,R-C-X-C chemokine receptor type 2,5
+Lablaboside A,C54H86O23,CC1C(C(C(C(O1)OC2C(C(C(OC2OC3C(C(C(OC3OC4CCC5(C(C4(C)C)CCC6(C5CC=C7C6(CCC8(C7CC(CC8)(C)C)C(=O)OC9C(C(C(C(O9)CO)O)O)O)C)C)C)C(=O)O)O)O)CO)O)O)O)O)O,CXCL8,-7.0124,6LFM ,R-C-X-C chemokine receptor type 2,5
+Polycanthine,C15H19NO3,,,,,,
+Kingianoside A,C39H60O14,C[C@@H]1CC[C@@]2([C@H](C3C(O2)CC4[C@@]3(C(=O)CC5C4CC=C6[C@@]5(CC[C@@H](C6)O[C@H]7[C@@H]([C@H]([C@H]([C@H](O7)CO)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)C)C)C)OC1,CXCL8,-7.4378,6LFM ,R-C-X-C chemokine receptor type 2,5
+Glycyrrhetol,C30H48O3,CC(=CCC[C@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)C(=O)O)C,CXCL8,-6.6597,6LFM ,R-C-X-C chemokine receptor type 2,5
+Glycyrrhetol,C30H48O3,CC(=CCC[C@H]([C@H]1CC[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)C(=O)O)C,,,,,
+Agroastragaloside Ⅰ,C47H76O17,,,,,,
+Agroastragaloside Ⅰ,C47H76O17,,,,,,
+Citronellyl formate,C11H20O2,CC(CCC=C(C)C)CCOC=O,CXCL8,-6.0094,6LFM ,R-C-X-C chemokine receptor type 2,5
+Licoflavone A,C20H18O4,CC(=CCC1=CC2=C(C=C1O)OC(=CC2=O)C3=CC=C(C=C3)O)C,CXCL8,-6.4136,6LFM ,R-C-X-C chemokine receptor type 2,5
+Tangshenoside I,C29H42O18,C[C@](CC(=O)O)(CC(=O)OC/C=C/C1=CC(=C(C(=C1)OC)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,CXCL8,-7.7211,6LFM ,R-C-X-C chemokine receptor type 2,5
+Acetyl astragaloside I,C47H74O17,,,,,,
+Acetyl astragaloside I,C47H74O17,,,,,,
+Soyasaponin βg,C47H74O17,,,,,,
+Soyasaponin βg,C47H74O17,,,,,,
+Tumulosic acid,C31H50O4,CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)O)C(=O)O,CXCL8,-6.7155,6LFM ,R-C-X-C chemokine receptor type 2,5
+Liensinine,C37H42N2O6,CN1CCC2=CC(=C(C=C2[C@H]1CC3=CC=C(C=C3)O)OC4=C(C=CC(=C4)C[C@@H]5C6=CC(=C(C=C6CCN5C)OC)OC)O)OC,CXCL8,-6.8108,6LFM ,R-C-X-C chemokine receptor type 2,5
+Genistein,C15H12O5,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,CXCL8,-6.8319,6LFM ,R-C-X-C chemokine receptor type 2,5
+Dehydrotumulosic acid,C31H48O4,CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CC=C3C2=CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)C)C)O)C(=O)O,CXCL8,-7.0423,6LFM ,R-C-X-C chemokine receptor type 2,5
+Phenylacetic acid,C8H8O2,C1=CC=C(C=C1)CC(=O)O,CXCL8,-5.7613,6LFM ,R-C-X-C chemokine receptor type 2,5
+Astragaloside II,C43H70O15,CC(=O)O[C@@H]1[C@H]([C@@H](CO[C@H]1O[C@H]2CC[C@]34C[C@]35CC[C@@]6([C@H]([C@H](C[C@]6([C@@H]5C[C@@H]([C@H]4C2(C)C)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)C)O)[C@]8(CC[C@H](O8)C(C)(C)O)C)C)O)O,CXCL8,-6.7768,6LFM ,R-C-X-C chemokine receptor type 2,5
+Astragalus A,C10H11NO4,,,,,,
+Quercetin,C15H10O7,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,CXCL8,-6.9014,6LFM ,R-C-X-C chemokine receptor type 2,5
+Kaempferol,C15H10O6,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,CXCL8,-6.5738,6LFM ,R-C-X-C chemokine receptor type 2,5
+Kaempferol,C15H10O6,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,,,,,
+Oleracein B,C25H27NO12,COC1=C(C=CC(=C1)/C=C/C(=O)N2[C@@H](CC3=CC(=C(C=C32)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)C(=O)O)O,CXCL8,-7.3479,6LFM ,R-C-X-C chemokine receptor type 2,5
+5-Methyl-7-methoxyisoflavone,C17H14O3,CC1=CC(=CC2=C1C(=O)C(=CO2)C3=CC=CC=C3)OC,CXCL8,-6.6709,6LFM ,R-C-X-C chemokine receptor type 2,5
+"2'-Hydroxy-7,3',4-trimethoxyisoflavone",C18H20O5,,,,,,
+Poricoic acid A,C31H46O5,CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CC=C3C2=CC[C@H]([C@]3(C)CCC(=O)O)C(=C)C)C)C)O)C(=O)O,CXCL8,-7.8245,6LFM ,R-C-X-C chemokine receptor type 2,5
+Pachymic acid,C33H52O5,CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CCC3=C2CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)OC(=O)C)C)C)C)O)C(=O)O,CXCL8,-6.0829,6LFM ,R-C-X-C chemokine receptor type 2,5
+Astragalus E,C14H16N2O5,,,,,,
+Astragalus membranaceus stem saponin A,C36H58O10,,,,,,
+Licoricone,C22H22O6,CC(=CCC1=C(C=C(C(=C1OC)C2=COC3=C(C2=O)C=CC(=C3)O)O)OC)C,CXCL8,-7.0539,6LFM ,R-C-X-C chemokine receptor type 2,5
+Dehydrotrametenolic acid,C30H46O3,CC(=CCC1=C(C=C(C(=C1OC)C2=COC3=C(C2=O)C=CC(=C3)O)O)OC)C,CXCL8,-7.4352,6LFM ,R-C-X-C chemokine receptor type 2,5
+Poricoic acid AM,C32H48O5,CC(C)C(=C)CC[C@H]([C@H]1[C@@H](C[C@@]2([C@@]1(CC=C3C2=CC[C@H]([C@]3(C)CCC(=O)OC)C(=C)C)C)C)O)C(=O)O,CXCL8,-6.7335,6LFM ,R-C-X-C chemokine receptor type 2,5
+Benzoic acid,C7H6O2,C1=CC=C(C=C1)C(=O)O,CXCL8,-5.5357,6LFM ,R-C-X-C chemokine receptor type 2,5
+psoralen,C11H6O3,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,CXCL8,-6.0344,6LFM ,R-C-X-C chemokine receptor type 2,5
+Astragalus D,C12H15NO5,,,,,,
+Agroastragaloside Ⅳ,C49H80O20,,,,,,
+Luteolin,C15H10O6,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,CXCL8,-6.7193,6LFM ,R-C-X-C chemokine receptor type 2,5
+Luteolin,C15H10O6,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,,,,,
+3-Methoxy-4-Hydroxybenzoic acid,C8H8O4,COC1=C(C=CC(=C1)C(=O)O)O,CXCL8,-5.9541,6LFM ,R-C-X-C chemokine receptor type 2,5
+Limonin,C26H30O8,C[C@@]12CC[C@H]3[C@]([C@@]14[C@H](O4)C(=O)O[C@H]2C5=COC=C5)(C(=O)C[C@@H]6[C@@]37COC(=O)C[C@@H]7OC6(C)C)C,CXCL8,-7.2918,6LFM ,R-C-X-C chemokine receptor type 2,5
+Isoquercitroside,C21H20O12,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@H](O4)[C@@H](CO)O)O)O)O)O,CXCL8,-7.7454,6LFM ,R-C-X-C chemokine receptor type 2,5
+Diammonium glycyrrhizinate,C42H68N2O16,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O.N.N,CXCL8,-7.1458,6LFM ,R-C-X-C chemokine receptor type 2,5
+"3 ',4 '-dimethoxy-7,2' -diglucose isoflavanside",C29H38O15,,,,,,
+Dopa,C9H11NO4,"C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O
+C1=CC(=C(C=C1CC(C(=O)O)N)O)O
+C1=CC(=C(C=C1C[C@H](C(=O)O)N)O)O",CXCL8,,6LFM ,R-C-X-C chemokine receptor type 2,5
+(+)-Syringaresinol,C22H26O8,COC1=CC(=CC(=C1O)OC)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC(=C(C(=C4)OC)O)OC,CXCL8,-7.382,6LFM ,R-C-X-C chemokine receptor type 2,5
+Nerolic acid,C10H16O2,CC(=CCC/C(=C\C(=O)O)/C)C,CXCL8,-6.0601,6LFM ,R-C-X-C chemokine receptor type 2,5
+,,,,-6.537744444,,,
+,,,,-529.5573,,,
+,,,,-6.537744444,,,
