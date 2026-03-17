@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "Base": {
+      "smiles_total": 56,
+      "records_raw": 56,
+      "records_filtered": 0,
+      "records_used": 56,
+      "used_source": "raw"
+    },
+    "Enhanced": {
+      "smiles_total": 46,
+      "records_raw": 46,
+      "records_filtered": 0,
+      "records_used": 46,
+      "used_source": "raw"
+    },
+    "Intelligent": {
+      "smiles_total": 70,
+      "records_raw": 70,
+      "records_filtered": 0,
+      "records_used": 70,
+      "used_source": "raw"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "means": {
+    "Base": {
+      "FitnessScore": 0.16162910653655574,
+      "QED": 0.5280563524935429,
+      "DruglikenessScore": 0.7060765881233857,
+      "LogP": 2.9379578571428593,
+      "TPSA": 78.91321428571429,
+      "MW": 307.48600000000005,
+      "RotatableBonds": 3.2857142857142856,
+      "HeavyAtoms": 22.357142857142858,
+      "NumRings": 2.8392857142857144,
+      "Flexibility": 0.14891960032534565,
+      "LipinskiViolations": 0.32142857142857145,
+      "VeberViolations": 0.125,
+      "StructuralAlerts": 0.05357142857142857,
+      "Affinity": 4.980099516255515
+    },
+    "Enhanced": {
+      "FitnessScore": 0.16371163001065553,
+      "QED": 0.5658626037258648,
+      "DruglikenessScore": 0.725378694409727,
+      "LogP": 2.3462919565217404,
+      "TPSA": 67.63913043478263,
+      "MW": 251.08969565217387,
+      "RotatableBonds": 2.847826086956522,
+      "HeavyAtoms": 18.304347826086957,
+      "NumRings": 2.260869565217391,
+      "Flexibility": 0.14936980875378514,
+      "LipinskiViolations": 0.10869565217391304,
+      "VeberViolations": 0.10869565217391304,
+      "StructuralAlerts": 0.021739130434782608,
+      "Affinity": 4.618971969770349
+    },
+    "Intelligent": {
+      "FitnessScore": 0.162220081174392,
+      "QED": 0.589791555645767,
+      "DruglikenessScore": 0.7254478889114419,
+      "LogP": 2.3490168571428582,
+      "TPSA": 61.594428571428566,
+      "MW": 238.51435714285716,
+      "RotatableBonds": 2.6142857142857143,
+      "HeavyAtoms": 17.357142857142858,
+      "NumRings": 2.0714285714285716,
+      "Flexibility": 0.13900963050927242,
+      "LipinskiViolations": 0.11428571428571428,
+      "VeberViolations": 0.1,
+      "StructuralAlerts": 0.17142857142857143,
+      "Affinity": 4.495099527495248
+    }
+  }
+}
